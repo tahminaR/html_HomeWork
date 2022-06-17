@@ -1,0 +1,7 @@
+.callingFromOtherClass{
+background-color: blue
+
+}
+#callingFromOtherClass1{
+	background-color: yellow
+}
